@@ -1,2 +1,2 @@
 Mensaje inicial de proyecto 2, práctica de git
-Segundo commit de práctica
+Cambios sobre branch2
