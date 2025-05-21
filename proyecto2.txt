@@ -1,1 +1,2 @@
 Mensaje inicial de proyecto 2, práctica de git
+Cambios sobre branch2
